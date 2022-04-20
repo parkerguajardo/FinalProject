@@ -1,0 +1,73 @@
+/* Parker Guajardo, last edit April 19 */
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 80px;
+    text-align: center;
+}
+.mainbody {
+    top: 96px;
+    bottom: 85px;
+    left: 97px;
+    right: 97px;
+    padding-left: 30px;
+}
+.footer {
+    bottom: 1px;
+    left: 5px;
+    right: 5px;
+    height: 40px;
+    text-align: center;
+    position: fixed;
+    border: solid 3px grey;
+    opacity: 1;
+    background-color: grey;
+}
+.tableaubg {
+    background-image: url(../assets/img/background3.jpg);
+    top: 96px;
+    bottom: 85px;
+    left: 97px;
+    right: 97px;
+    padding-left: 30px;
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 80px;
+    text-align: right;
+    padding-right: 160px;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.headercolor {
+    color: #fff;
+    text-decoration: none;
+    letter-spacing: 0.0625em;
+}
+.pad{
+    padding-top: 10px;
+
+}
+.tableautitle {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fff;
+    font-size: 40px;
+}
+.sexydecor {
+    background-color: #fff;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    display: table;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}

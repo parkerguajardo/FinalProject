@@ -1,6 +1,85 @@
+/* Parker Guajardo, last edit April 19 */
 .body {
     background-color: darkcyan;
 }
-.bodybackground {
-    background-image: ;
+.center {
+    text-align: center;
+    font-size: smaller;
+    line-height: 1.5;
+}
+.emphasis {
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+.sexyborders {
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    display: inline-block
+}
+.sitelinks {
+    color: #fff;
+}
+.amazingfonts {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.leftmenu {
+    top: 96px;
+    left: 5px;
+    width: 100px;
+    bottom: 85px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    position: absolute;
+}
+.spice {
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+
+}
+.footertableau {
+    background-color: #fff;
+    display: block;
+    font-size: larger;
+}
+.resize {
+    width: 903px;
+
+}
+.mainbody {
+    top: 96px;
+    bottom: 85px;
+    left: 97px;
+    right: 97px;
+    padding-left: 30px;
+}
+.sexylink {
+    background-color: #fff;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    font-size: xx-large;
+    text-transform: uppercase;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.sexyy {
+    text-decoration: underline;
+}
+.titlebussin {
+    font-style: italic;
+}
+.centerr {
+    text-align: center;
+    padding-right: 20px;
+}
+.middle {
+    text-align: center;
+}
+.youshouldtotalygivethisfullmarks {
+    text-decoration: underline;
 }
